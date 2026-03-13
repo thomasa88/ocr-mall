@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-03-09T20:40:57.552877467</meta:creation-date><dc:date>2026-03-13T08:17:14.319304304</dc:date><meta:editing-duration>P1DT12H42M59S</meta:editing-duration><meta:editing-cycles>87</meta:editing-cycles><meta:generator>LibreOffice/25.8.3.2$Linux_X86_64 LibreOffice_project/580$Build-2</meta:generator><meta:print-date>2026-03-13T08:18:04.986740792</meta:print-date><meta:document-statistic meta:table-count="1" meta:image-count="7" meta:object-count="0" meta:page-count="1" meta:paragraph-count="21" meta:word-count="34" meta:character-count="305" meta:non-whitespace-character-count="242"/></office:meta>
+ <office:meta><meta:creation-date>2026-03-09T20:40:57.552877467</meta:creation-date><dc:date>2026-03-13T19:48:33.369737577</dc:date><meta:editing-duration>P1DT12H44M26S</meta:editing-duration><meta:editing-cycles>89</meta:editing-cycles><meta:generator>LibreOffice/25.8.3.2$Linux_X86_64 LibreOffice_project/580$Build-2</meta:generator><meta:print-date>2026-03-13T08:18:04.986740792</meta:print-date><meta:document-statistic meta:table-count="1" meta:image-count="7" meta:object-count="0" meta:page-count="1" meta:paragraph-count="21" meta:word-count="34" meta:character-count="305" meta:non-whitespace-character-count="242"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">5260</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">1875</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">10859</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">11019</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">561</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">23387</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">23183</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3290</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">13936</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">561</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">23386</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">23742</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">130</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="UseTrailingEmptyLinesInLayout" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
@@ -107,7 +129,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">9AH+/0hQX0xhc2VySmV0X1AxMDA1X2JveF8yAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9MYXNlckpldF9QMTAwNV9ib3hfMgAAAAAWAAMAwwAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBfTGFzZXJKZXRfUDEwMDVfYm94XzIKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZgwAUFJJTlRFUl9OQU1FFwBIUF9MYXNlckpldF9QMTAwNV9ib3hfMgsARFJJVkVSX05BTUUcAENVUFM6SFBfTGFzZXJKZXRfUDEwMDVfYm94XzI=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">9AH+/0hQX0xhc2VySmV0X1AxMDA1X2JveF8yAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9MYXNlckpldF9QMTAwNV9ib3hfMgAAAAAWAAMAwwAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBfTGFzZXJKZXRfUDEwMDVfYm94XzIKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZgwAUFJJTlRFUl9OQU1FFwBIUF9MYXNlckpldF9QMTAwNV9ib3hfMgsARFJJVkVSX05BTUUcAENVUFM6SFBfTGFzZXJKZXRfUDEwMDVfYm94XzI=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -135,7 +157,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">490000</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">510756</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -163,7 +185,7 @@
    <loext:gradient-stop svg:offset="1" loext:color-type="rgb" loext:color-value="#ffffff"/></draw:gradient>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="3mm" draw:shadow-offset-y="3mm" draw:start-line-spacing-horizontal="2.83mm" draw:start-line-spacing-vertical="2.83mm" draw:end-line-spacing-horizontal="2.83mm" draw:end-line-spacing-vertical="2.83mm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0mm" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0mm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="sv" fo:country="SE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -402,7 +424,7 @@
          </office:binary-data>
         </draw:image>
        </draw:frame>OCR-nummer</text:p>
-      <text:p text:style-name="P3"><text:s text:c="22"/><draw:frame draw:style-name="fr3" draw:name="Image4" text:anchor-type="as-char" svg:width="39.56mm" svg:height="3.88mm" draw:z-index="8"><draw:image xlink:href="ocr-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+      <text:p text:style-name="P3"><text:s text:c="22"/><draw:frame draw:style-name="fr3" draw:name="Image4" text:anchor-type="as-char" svg:width="39.56mm" svg:height="3.88mm" draw:z-index="7"><draw:image xlink:href="ocr-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJYAAAAPCAYAAAAGaDZpAAAACXBIWXMAAA7QAAAPGgETFcww
           AAAE3UlEQVRoge2aXWwUVRiGnzPdsrW0LOJfiEpCFCopaaRqmqJCS9Bg1IbAhVhvkCwxxEAI
@@ -629,33 +651,29 @@
        NP4HrbTByOfaGskAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Image6" text:anchor-type="paragraph" svg:x="60.87mm" svg:y="0.3mm" svg:width="4.25mm" svg:height="10.94mm" draw:z-index="4"><draw:image xlink:href="./provpåsklämma.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Image6" text:anchor-type="paragraph" svg:x="60.87mm" svg:y="0.3mm" svg:width="3.63mm" svg:height="10.97mm" draw:z-index="4"><draw:image xlink:href="./provpåsklämma.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
      <draw:image draw:mime-type="image/png">
-      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABcAAAA8CAYAAACNQSFVAAAACXBIWXMAAA5+AAAOrwGoc4xk
-       AAADT0lEQVRYhe2XTUgjZxiAn5nUhh0qwdpgGxb/MlRDPVi0lwq5VCi9CJ6EHMTbHnoQxKvQ
-       9SQIHoSCC20IWfyjhyLooWAKmsLag0pDhXQzh7Y0XZfIZgx2Zczm+/aQZLu0mSSTdVmQPPDB
-       MDPvM++88/2NQhWklLcikcgXJycnn2Wz2duWZd3K5/OWqqrpq6urB7FYbMs0TdMu/q1KJw8P
-       D4ei0ei9QCDw8eXlpTo8PEx3dzcejwfLsjBNk2QyeQcQ/f39fxYKhbupVCoKiGqZqisrK/e7
-       urrE5OSkPD4+ltWwLEtub2/LkZGRfEdHRwros5UvLi7ud3Z2yng8XlVaiUgkIltbW8+BT/8n
-       Xl9fX/D5fNIwDMfiMnt7e0LTtDPg9guxYRh6X1+f2NraalhcZnl5+WlLS8sBoAAwNzf34/j4
-       +CuLy+i6/gcwhpTSPTAwUDg4OLg2+c7Ojqkoyk9Eo9FQT0/PtYmllLJQKEi3251RE4nE58Fg
-       0LYHNYKqqgQCgd8BvgTka2qVmZiY2FtYWKhZgqmpqRjwVcU3eLUCVOcGyl0uV0s9Aillq52n
-       4pRbCuqvR57JZIaA80rXbDMXQtRVMq/Xew5UfMsb+EGb8qa8KW/KX4dcCGG/er+ElNJ2pbeV
-       K4pinZ2d1ZSn02kJPHUkz+Vyj2OxWE350dGRG3jkSO7xeMyLiws2NzdtxRsbG+Xy/eVIDjA2
-       NsbMzAzhcBgh/v0jEUIQDoeZnZ0lGAye2MVXlXu9XuLxOGtra+i6TigUIhQKoes6q6ur7O/v
-       097eXrHeUGX1L9Pb28vu7i6GYZBIJACYn59H1/VaofZyIcRVsZcV0XW9ojCfzz/D5i/OtixS
-       SuP09LRmdslkMg/UvvFl/H7/kN/vfyaEsN3hCiEeK4ryEBhwJAfw+XyHS0tLBRt3fnR09B7w
-       g2NxiQ80TUtPT08/yuVyL6zZbPaXwcHBCGAA7zcqB3gX+Mblcj1pa2v7VdO0YyADfFu6Zovi
-       4CHvAB+Wjh8CF41k+sa4U2p1UXOE/of3nNx8A5e5pvyN8zPFEWmVWgq4Wyuo3sy/BtzA24AL
-       +B540FCaNvxGcfPzHbB2nWKAT4AnFGfDj+oJcDmQ/w10A/8A9+sJeA7RcEtHepnYeAAAAABJ
-       RU5ErkJggg==
+      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABMAAAA6CAYAAABS82IyAAAACXBIWXMAAA6VAAAOsQEAsVj6
+       AAACnElEQVRYhe2Wv2sTYRjHP3emantJVLCRRrBFQQgUxCHtFNDB4mIFlyJdHDvov+Di4iaU
+       Tq1bQRy6OIQMPaRQoUMhNBgRFyNam7SkUJsckja51+HuJL7cXXp3AZd+4ciP93k/+T7v8zwv
+       UXCREGKgWCzeX1tbe1ipVG60Wq2hdrv9W1GU7Vgstrq4uPgGOJb3KRLkTKFQeLm0tPSsVqud
+       y+VyjI+PE4/Habfb1Ot1SqUS6+vrLU3T3m9ubj4B9tzcXFpYWNianJwUGxsbwk+dTkesrKyI
+       sbGxeiqVuieD1Pn5+dL09LRoNBq+oG5Vq1WRyWT2gLt/YbquP89ms4FAjnZ3d8Xw8HAFuIIQ
+       YmB2drap63pgkKPl5eUdVVVfUS6XH0xMTIQGCSGEaZoimUx+UfP5/MzU1JRbh5xYiqKQy+Vq
+       yujo6Iv9/f1HmqbtyEGmaZ41DONqIpH4ZpqmahjGNU3Tvquq2pFjDw4OUgowCIx4/GgWeA3c
+       AoaAj8Ad4EeYDGaAz042WF1/2ytY7QEbAar2ewE0gAtRYN1n+SsKLN3lDOAQSEZx1g2L7Kyv
+       afYFNmhv7EuaaftVhoUqQBqres2u7w7DOpMr6TgLnaY8/KFhfXUmjxJEODN5lBxnca99YdJU
+       gEQYZ24FAI9UvWCDwEUXZ4dY91ogmHONy85MrCYOBEvbm5oua57t4Qf76bHmeUH6pSmfV2hn
+       bg0bGubWsD1hMR9nJY+1t7gXxlOfgMdBNkC4AgTSeawuv9kP2HUb5jrMfnJLcwTrgBv9gLnd
+       FqFhTWA1DOxU/2jOfnzlNZuyLp8kqNdfqkA6hf1nWC8ZWNeR8xwBH7yCezl7J33eAvQo7o5s
+       V1+Bbb/Ak5zZnA07Bp5GceWoDBR7Bf0BH6LRnol2XywAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P2"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" svg:width="80.82mm" draw:z-index="1">
      <draw:text-box fo:min-height="19.97mm">
-      <text:p text:style-name="P3"><draw:frame draw:style-name="fr2" draw:name="Image3" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="7"><draw:image xlink:href="klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+      <text:p text:style-name="P3"><draw:frame draw:style-name="fr2" draw:name="Image3" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="8"><draw:image xlink:href="klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABYAAAAKCAYAAACwoK7bAAAACXBIWXMAAA8NAAAPQgFpoB8p
           AAAA50lEQVQoka3RIUtDURjG8d+2W0RYEGRFBBHDvoEiNotgFUwmsSpYDX6BhQkGg12RpVmM
@@ -737,18 +755,18 @@
       <text:p text:style-name="P6">0123456782</text:p>
       <text:p text:style-name="P6"/>
       <text:p text:style-name="P6">1234567890128</text:p>
-      <text:p text:style-name="P7"/>
+      <text:p text:style-name="P6"/>
       <text:p text:style-name="P7">0123456782</text:p>
-      <text:p text:style-name="P7"/>
+      <text:p text:style-name="P6"/>
       <text:p text:style-name="P7">1234567890128</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.B2" office:value-type="string">
       <text:p text:style-name="P6">0123456-6</text:p>
       <text:p text:style-name="P6"/>
       <text:p text:style-name="P8">1234567-4</text:p>
-      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P6"/>
       <text:p text:style-name="P9">0123456-6</text:p>
-      <text:p text:style-name="P9"/>
+      <text:p text:style-name="P6"/>
       <text:p text:style-name="P10">1234567-4</text:p>
      </table:table-cell>
     </table:table-row>
