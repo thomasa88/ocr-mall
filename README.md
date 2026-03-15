@@ -6,4 +6,4 @@ Mallar för att skanna OCR-nummer och Plusgironummer i text, genom att lägga di
 
 ![](bilder/exempel.png)
 
-[Ladda ner](https://github.com/thomasa88/ocr-mall/releases)
+[Ladda ner](https://github.com/thomasa88/ocr-mall/releases/latest)
