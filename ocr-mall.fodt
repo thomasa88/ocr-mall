@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-03-09T20:40:57.552877467</meta:creation-date><dc:date>2026-03-14T21:57:17.624777367</dc:date><meta:editing-duration>P2DT52M32S</meta:editing-duration><meta:editing-cycles>134</meta:editing-cycles><meta:generator>LibreOffice/25.8.3.2$Linux_X86_64 LibreOffice_project/580$Build-2</meta:generator><meta:print-date>2026-03-13T08:18:04.986740792</meta:print-date><meta:document-statistic meta:table-count="1" meta:image-count="6" meta:object-count="0" meta:page-count="1" meta:paragraph-count="28" meta:word-count="97" meta:character-count="743" meta:non-whitespace-character-count="662"/></office:meta>
+ <office:meta><meta:creation-date>2026-03-09T20:40:57.552877467</meta:creation-date><dc:date>2026-03-14T21:58:56.444380566</dc:date><meta:editing-duration>P2DT54M10S</meta:editing-duration><meta:editing-cycles>135</meta:editing-cycles><meta:generator>LibreOffice/25.8.3.2$Linux_X86_64 LibreOffice_project/580$Build-2</meta:generator><meta:print-date>2026-03-13T08:18:04.986740792</meta:print-date><meta:document-statistic meta:table-count="1" meta:image-count="6" meta:object-count="0" meta:page-count="1" meta:paragraph-count="28" meta:word-count="102" meta:character-count="765" meta:non-whitespace-character-count="680"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">11377</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">10054</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">19002</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">19283</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11035</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">26742</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12404</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">22124</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">11377</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">10054</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">19001</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">30658</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">29335</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -376,6 +376,11 @@
    <style:text-properties officeooo:rsid="000089bf" officeooo:paragraph-rsid="000089bf"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Frame_20_contents">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="91.95mm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
    <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0005c6e5" officeooo:paragraph-rsid="0005c6e5" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Frame_20_contents">
@@ -385,16 +390,33 @@
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Frame_20_contents">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" officeooo:rsid="0005c6e5" officeooo:paragraph-rsid="0005c6e5" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00046b67" officeooo:paragraph-rsid="00046b67"/>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Frame_20_contents">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="91.95mm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="0005c6e5"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00046b67" officeooo:paragraph-rsid="00046b67"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000089bf" officeooo:paragraph-rsid="000edee9"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties officeooo:rsid="000edee9"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00108174" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000edee9"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0005c6e5" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00108174" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
    <style:text-properties officeooo:rsid="000ab801"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -998,7 +1020,7 @@
           +BxCknGhmZb8nX3W9rb0owo1BGJdOCsYRagBAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>OCR-nummer</text:p>
+       </draw:frame>OCR-nummer<text:tab/><text:span text:style-name="T1">T.A. 2026</text:span></text:p>
       <text:p text:style-name="P12"><text:s/><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="39.56mm" svg:height="4.37mm" draw:z-index="3"><draw:image xlink:href="ocr-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJYAAAARCAYAAAA/tFWCAAAACXBIWXMAAA7QAAAPKQHnfqkA
@@ -1017,12 +1039,12 @@
          </office:binary-data>
         </draw:image>
        </draw:frame><text:s/></text:p>
-      <text:p text:style-name="P13">Placera <text:span text:style-name="T1">OCR-</text:span>numret mot den högra kanten.</text:p>
+      <text:p text:style-name="P13">Placera <text:span text:style-name="T2">OCR-</text:span>numret mot den högra kanten.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P10"><draw:frame draw:style-name="fr3" draw:name="Frame1" text:anchor-type="as-char" svg:width="95mm" draw:z-index="4">
      <draw:text-box fo:min-height="17.82mm">
-      <text:p text:style-name="P11"><draw:frame draw:style-name="fr4" draw:name="Image3" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="5"><draw:image xlink:href="klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+      <text:p text:style-name="P14"><draw:frame draw:style-name="fr4" draw:name="Image3" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="5"><draw:image xlink:href="klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABYAAAAKCAYAAACwoK7bAAAACXBIWXMAAA8NAAAPQgFpoB8p
           AAAA50lEQVQoka3RIUtDURjG8d+2W0RYEGRFBBHDvoEiNotgFUwmsSpYDX6BhQkGg12RpVmM
@@ -1032,7 +1054,7 @@
           +BxCknGhmZb8nX3W9rb0owo1BGJdOCsYRagBAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Plusgiro</text:p>
+       </draw:frame><text:span text:style-name="T3">Plusgiro<text:tab/></text:span><text:span text:style-name="T4">T.A. </text:span><text:span text:style-name="T4">2026</text:span></text:p>
       <text:p text:style-name="P12"><text:s/><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="41.59mm" svg:height="4.37mm" draw:z-index="6"><draw:image xlink:href="plusgiro-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJ0AAAARCAYAAADHVK51AAAACXBIWXMAAA6+AAAPKQHVgMcq
@@ -1062,16 +1084,16 @@
          </office:binary-data>
         </draw:image>
        </draw:frame><text:s/></text:p>
-      <text:p text:style-name="P13"><text:span text:style-name="T2">Välj sista siffran på snurran och placera över strecket </text:span><text:span text:style-name="T1">på numret.</text:span> </text:p>
+      <text:p text:style-name="P13"><text:span text:style-name="T5">Välj sista siffran på snurran och placera över strecket </text:span><text:span text:style-name="T2">på numret.</text:span> </text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P10"/>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P15">Copyright 2026 <text:s/>Thomas Axelsson</text:p>
    <text:p text:style-name="P15"/>
-   <text:p text:style-name="P15"><text:span text:style-name="T1">Licens: </text:span>CC-BY-SA 4.0, DelaPåSammaVillkor 4.0,</text:p>
-   <text:p text:style-name="P15"><text:a xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://creativecommons.org/licenses/by-sa/4.0/deed.sv</text:a> </text:p>
+   <text:p text:style-name="P15"/>
+   <text:p text:style-name="P16">Copyright 2026 <text:s/>Thomas Axelsson</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:span text:style-name="T2">Licens: </text:span>CC-BY-SA 4.0, DelaPåSammaVillkor 4.0,</text:p>
+   <text:p text:style-name="P16"><text:a xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://creativecommons.org/licenses/by-sa/4.0/deed.sv</text:a> </text:p>
   </office:text>
  </office:body>
 </office:document>
