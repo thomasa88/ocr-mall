@@ -488,7 +488,7 @@
    </text:sequence-decls>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">OCR-mallar</text:h>
    <text:p text:style-name="P2">Mallarna nedan låter dig skanna OCR-nummer och Plusgironummer i text, genom att lägga dit de extra tecken som behövs.</text:p>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Image7" text:anchor-type="as-char" svg:width="99.84mm" svg:height="56.76mm" draw:z-index="7"><draw:image xlink:href="exempel.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Image7" text:anchor-type="as-char" svg:width="99.84mm" svg:height="56.76mm" draw:z-index="7"><draw:image xlink:href="bilder/exempel.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:h text:style-name="P4" text:outline-level="2">Test</text:h>
    <text:p text:style-name="P2">Nedanstående nummer kan användas för att testa mallarna.</text:p>
@@ -527,7 +527,7 @@
    <text:p text:style-name="P11"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Mallar</text:h>
    <text:p text:style-name="P2">Skär eller klipp ut mallarna nedan. Plusgiromallen har en snurrskiva som ska fästas på baksidan med exempelvis en provpåsklämma. Snurran behövs för att täcka över bindestrecket i Plusgironumret.</text:p>
-   <text:p text:style-name="P12"><draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="paragraph" svg:x="100.88mm" svg:y="6.54mm" svg:width="33.73mm" svg:height="33.62mm" draw:z-index="0"><draw:image xlink:href="plusgiro-snurra.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+   <text:p text:style-name="P12"><draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="paragraph" svg:x="100.88mm" svg:y="6.54mm" svg:width="33.73mm" svg:height="33.62mm" draw:z-index="0"><draw:image xlink:href="bilder/plusgiro-snurra.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAH8AAAB/CAYAAADGvR0TAAAACXBIWXMAAA62AAAOwgGFmwVX
        AAAgAElEQVR4nO2deXiU1d33v7NlQshCJhMg+0ZYEraE1QVREBCK+gq1j1UeN4pP1SouVayt
@@ -691,7 +691,7 @@
      </draw:image>
     </draw:frame><draw:frame draw:style-name="fr3" draw:name="Frame2" text:anchor-type="as-char" svg:width="95mm" draw:z-index="1">
      <draw:text-box fo:min-height="16.56mm">
-      <text:p text:style-name="P13"><draw:frame draw:style-name="fr4" draw:name="Image3 Copy 1" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="2"><draw:image xlink:href="klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+      <text:p text:style-name="P13"><draw:frame draw:style-name="fr4" draw:name="Image3 Copy 1" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="2"><draw:image xlink:href="bilder/klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABYAAAAKCAYAAACwoK7bAAAACXBIWXMAAA8NAAAPQgFpoB8p
           AAAA50lEQVQoka3RIUtDURjG8d+2W0RYEGRFBBHDvoEiNotgFUwmsSpYDX6BhQkGg12RpVmM
@@ -702,7 +702,7 @@
          </office:binary-data>
         </draw:image>
        </draw:frame>OCR-nummer<text:tab/><text:span text:style-name="T3">T.A. 2026</text:span></text:p>
-      <text:p text:style-name="P14"><text:s/><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="39.56mm" svg:height="4.37mm" draw:z-index="3"><draw:image xlink:href="ocr-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+      <text:p text:style-name="P14"><text:s/><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="39.56mm" svg:height="4.37mm" draw:z-index="3"><draw:image xlink:href="bilder/ocr-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJYAAAARCAYAAAA/tFWCAAAACXBIWXMAAA7QAAAPKQHnfqkA
           AAACXklEQVRoge3Yz4tNcRjH8de9xp2Z1DR+lYRShFnIglKXGorNRUpjo5S70GxEWVjI/QM0
@@ -725,7 +725,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P12"><draw:frame draw:style-name="fr3" draw:name="Frame1" text:anchor-type="as-char" svg:width="95mm" draw:z-index="4">
      <draw:text-box fo:min-height="17.82mm">
-      <text:p text:style-name="P16"><draw:frame draw:style-name="fr4" draw:name="Image3" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="5"><draw:image xlink:href="klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+      <text:p text:style-name="P16"><draw:frame draw:style-name="fr4" draw:name="Image3" text:anchor-type="paragraph" svg:x="41.75mm" svg:y="-4.06mm" svg:width="5.72mm" svg:height="2.56mm" draw:z-index="5"><draw:image xlink:href="bilder/klipp-sax.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABYAAAAKCAYAAACwoK7bAAAACXBIWXMAAA8NAAAPQgFpoB8p
           AAAA50lEQVQoka3RIUtDURjG8d+2W0RYEGRFBBHDvoEiNotgFUwmsSpYDX6BhQkGg12RpVmM
@@ -736,7 +736,7 @@
          </office:binary-data>
         </draw:image>
        </draw:frame><text:span text:style-name="T5">Plusgiro<text:tab/></text:span><text:span text:style-name="T6">T.A. </text:span><text:span text:style-name="T6">2026</text:span></text:p>
-      <text:p text:style-name="P14"><text:s/><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="41.59mm" svg:height="4.37mm" draw:z-index="6"><draw:image xlink:href="plusgiro-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
+      <text:p text:style-name="P14"><text:s/><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="41.59mm" svg:height="4.37mm" draw:z-index="6"><draw:image xlink:href="bilder/plusgiro-ram.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/svg+xml"/>
         <draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJ0AAAARCAYAAADHVK51AAAACXBIWXMAAA6+AAAPKQHVgMcq
           AAAEwElEQVRoge2Zf0zUZRzHXw8/Pbmr5ZYmUWhMUrRVF0Q2Gc6sOcjVapkyyX5cV1mjzdUW
